@@ -1,2 +1,2 @@
 # ActiveDirectory
-All Public Powershell Scripts
+All Public Active Directory Scripts
